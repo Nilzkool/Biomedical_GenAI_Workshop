@@ -1,5 +1,5 @@
 ## Background
-This repository provides the notebook and the data for the case study was used in the **Accelerate Biomedical Data Analysis with Generative AI** workshop
+This repository provides the notebook and the data for the case study was used in the **Accelerate Biomedical Data Analysis with Generative AI** workshop. The idea behind the workshop is to demonstrate how Gen AI can be leveraged to accelerate common biomedical data analysis tasks.
 
 ## Case study
 - Research Article: [Pediatric Brain Cancer (CPTAC/CHOP, Cell 2020)](https://pubmed.ncbi.nlm.nih.gov/33242424/)
