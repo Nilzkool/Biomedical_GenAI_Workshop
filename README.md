@@ -47,3 +47,9 @@ The following instructions are meant to be run on a terminal. The instructions h
 **Important point to note**
 - The notebook requires OpenAI keys, which can be obtained [here](https://platform.openai.com/api-keys)
 
+## Some prompt engineering tips for biomedical data analysis
+- Keep the prompts limited to one data task
+- Clearly define the inputs/dataset for the data analysis task
+- Indicate what output needs to be generated e.g. a number, plot, etc.
+- Ask to wrap the code as Python functions for easy sharing and re-use
+- Iterate: you will not get the perfect code every time
